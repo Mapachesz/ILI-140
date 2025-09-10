@@ -153,5 +153,5 @@ Esta configuración asegura la satisfacción de la demanda a costos mínimos y e
 - **Económica:** La configuración recomendada permite **minimizar costos totales** y asegurar eficiencia productiva, generando oportunidades de mercado y sostenibilidad financiera. Se evita sobreinversión en plantas poco rentables y se priorizan localizaciones estratégicas.  
 
 
-## 9. Video presentacio:
+## 9. Video presentacion:
 https://youtu.be/JZ4UJG_-dgg
